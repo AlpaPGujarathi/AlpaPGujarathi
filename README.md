@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlpaPGujarathi
+- 👋 Hi, I’m @Alpa
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub  
